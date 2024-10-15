@@ -57,6 +57,16 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\bajolamismaestrella.jpeg" />
+	  <None Remove="Resources\Images\forrestgump.jpeg" />
+	  <None Remove="Resources\Images\lapropuesta.jpeg" />
+	  <None Remove="Resources\Images\orgulloyprejuicio.jpeg" />
+	  <None Remove="Resources\Images\titanic.jpeg" />
+	  <None Remove="Resources\Images\violetyfinch.jpeg" />
+	  <None Remove="Resources\Images\yoantesdeti.jpeg" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
@@ -70,6 +80,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Page1.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Page2.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

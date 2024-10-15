@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FilmPro.Page2"
+             Title=" ">
+    <VerticalStackLayout>
+        <Label
+         Text="ROMANCE"
+         FontAttributes="Bold"
+         FontSize="Title"
+         HorizontalOptions="Center"
+         Margin="0,10"
+         />
+        <Label 
+         Text="¡Bienvenido a nuestra sección de películas románticas! Aquí, el amor toma el centro del escenario y cada historia es una invitación a soñar. Desde los clásicos atemporales que han definido generaciones hasta las joyas modernas que hacen latir más fuerte el corazón, nuestro catálogo está diseñado para todos los amantes del romance. Prepárate para sumergirte en relatos que te harán reír, llorar y creer en el poder del amor. ¡Explora, disfruta y déjate llevar por las emociones!"
+         VerticalOptions="Center" 
+         HorizontalOptions="Center"
+         Margin="25,10,25,50"/>
+
+        <Label
+         Text="Recomendaciones:"
+         FontAttributes="Bold"
+         FontSize="Subtitle"
+         Margin="25,20"/>
+
+        <ScrollView Orientation="Horizontal" HorizontalScrollBarVisibility="Never" Padding="5" >
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <!-- peli 1 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="titanic.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Titanic" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 2 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="bajolamismaestrella.jpeg" WidthRequest="90" HeightRequest="90" />
+                        <Label Text="Bajo la misma estrella" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 3 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="forrestgump.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Forrest Gump" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 4 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="lapropuesta.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="La propuesta" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 5 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="orgulloyprejuicio.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Orgullo y prejuicio" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+                
+                <!-- peli 6 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="violetyfinch.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Violet y Finch" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 7 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="yoantesdeti.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Yo antes de ti" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+            </StackLayout>
+        </ScrollView >
+    </VerticalStackLayout>
+</ContentPage>
