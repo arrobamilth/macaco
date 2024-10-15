@@ -32919,24 +32919,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AsusTUF\\.nuget\\packages\\": {},
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\FilmPro.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
       "projectName": "FilmPro",
-      "projectPath": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\FilmPro.csproj",
-      "packagesPath": "C:\\Users\\AsusTUF\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\AsusTUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

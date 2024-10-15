@@ -10,5 +10,11 @@
            Clicked="Page1" 
             Margin="0,10"
             BackgroundColor="#e54f1a"/>
+
+        <Button Text="Cine independiente"
+            FontAttributes="Bold"
+       Clicked="Page4" 
+        Margin="0,10"
+        BackgroundColor="#e54f1a"/>
     </VerticalStackLayout>
 </ContentPage>

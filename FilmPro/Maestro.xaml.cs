@@ -14,4 +14,10 @@ public partial class Maestro : ContentPage
         App.flyoutPage.Detail.Navigation.PushAsync(new Page1());
         App.flyoutPage.IsPresented = false;
     }
+
+    private void Page4(object sender, EventArgs e)
+    {
+        App.flyoutPage.Detail.Navigation.PushAsync(new Page4());
+        App.flyoutPage.IsPresented = false;
+    }
 }
