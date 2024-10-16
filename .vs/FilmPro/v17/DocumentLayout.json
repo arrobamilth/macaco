@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AsusTUF\\Documents\\macaco\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\documents\\macaco\\filmpro\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\documents\\macaco\\filmpro\\maestro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\maestro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\documents\\macaco\\filmpro\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\documents\\macaco\\filmpro\\maestro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\maestro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\documents\\macaco\\filmpro\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,20 +66,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Maestro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Maestro.xaml.cs",
+              "RelativeDocumentMoniker": "FilmPro\\Maestro.xaml.cs",
+              "ToolTip": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Maestro.xaml.cs",
+              "RelativeToolTip": "FilmPro\\Maestro.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:45:17.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Maestro.xaml",
               "DocumentMoniker": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Maestro.xaml",
               "RelativeDocumentMoniker": "FilmPro\\Maestro.xaml",
               "ToolTip": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Maestro.xaml",
               "RelativeToolTip": "FilmPro\\Maestro.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-16T01:41:47.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Page4.xaml",
               "DocumentMoniker": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Page4.xaml",
               "RelativeDocumentMoniker": "FilmPro\\Page4.xaml",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Page2.xaml.cs",
               "DocumentMoniker": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Page2.xaml.cs",
               "RelativeDocumentMoniker": "FilmPro\\Page2.xaml.cs",
@@ -96,12 +113,11 @@
               "RelativeToolTip": "FilmPro\\Page2.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T01:22:21.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T01:22:21.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Page1.xaml",
               "DocumentMoniker": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Page1.xaml",
               "RelativeDocumentMoniker": "FilmPro\\Page1.xaml",
@@ -109,12 +125,11 @@
               "RelativeToolTip": "FilmPro\\Page1.xaml",
               "ViewState": "AgIAACwAAAAAAAAAAAAAAEQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T01:22:21.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T01:22:21.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Page2.xaml",
               "DocumentMoniker": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\Page2.xaml",
               "RelativeDocumentMoniker": "FilmPro\\Page2.xaml",
@@ -122,8 +137,7 @@
               "RelativeToolTip": "FilmPro\\Page2.xaml",
               "ViewState": "AgIAADYAAAAAAAAAAAAgwFEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T01:22:21.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T01:22:21.88Z"
             }
           ]
         }
