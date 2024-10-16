@@ -18,5 +18,11 @@
             Margin="0,10"
             BackgroundColor="#e54f1a"/>
 
+        <Button Text="Ciencia Ficción"
+                FontAttributes="Bold"
+         Clicked="Page3" 
+         Margin="0,10"
+         BackgroundColor="#e54f1a"/>
+
     </VerticalStackLayout>
 </ContentPage>

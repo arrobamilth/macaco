@@ -58,6 +58,15 @@ build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page2.xaml
 build_metadata.AdditionalFiles.TargetPath = Page2.xaml
 build_metadata.AdditionalFiles.RelativePath = Page2.xaml
 
+<<<<<<< HEAD
+=======
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Page3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page3.xaml
+build_metadata.AdditionalFiles.TargetPath = Page3.xaml
+build_metadata.AdditionalFiles.RelativePath = Page3.xaml
+
+>>>>>>> funcionalidad/brayan_page
 [C:/Users/AsusTUF/Documents/macaco/FilmPro/Page4.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page4.xaml

@@ -1,5 +1,13 @@
 ﻿obj\Debug\net8.0-android\resizetizer\r\drawable\aftersun.jpg
 obj\Debug\net8.0-android\resizetizer\r\drawable\bajolamismaestrella.jpeg
+<<<<<<< HEAD
+=======
+obj\Debug\net8.0-android\resizetizer\r\drawable\ficcion1.jpg
+obj\Debug\net8.0-android\resizetizer\r\drawable\ficcion2.jpg
+obj\Debug\net8.0-android\resizetizer\r\drawable\ficcion3.jpg
+obj\Debug\net8.0-android\resizetizer\r\drawable\ficcion4.jpg
+obj\Debug\net8.0-android\resizetizer\r\drawable\ficcion5.jpg
+>>>>>>> funcionalidad/brayan_page
 obj\Debug\net8.0-android\resizetizer\r\drawable\forrestgump.jpeg
 obj\Debug\net8.0-android\resizetizer\r\drawable\fran.jpeg
 obj\Debug\net8.0-android\resizetizer\r\drawable\her.jpg

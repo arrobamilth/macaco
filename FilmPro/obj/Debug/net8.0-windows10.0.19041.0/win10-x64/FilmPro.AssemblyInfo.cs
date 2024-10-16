@@ -18,7 +18,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilmPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2ee4aa67121a97ecfc93853d4aa0f71a4e028c5d")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+053069d0618e6bbae95a437f2fbe582f28114aca")]
+>>>>>>> funcionalidad/brayan_page
 [assembly: System.Reflection.AssemblyProductAttribute("FilmPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FilmPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

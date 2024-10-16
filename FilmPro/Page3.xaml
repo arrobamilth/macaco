@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FilmPro.Page3"
+             Title=" ">
+    <VerticalStackLayout>
+        <Label
+            Text="Ciencia Ficción"
+            FontAttributes="Bold"
+            FontSize="Title"
+            HorizontalOptions="Center"
+            Margin="0,10"
+            />
+        <Label 
+            Text="¡Te damos la bienvenida a nuestra colección de películas de ciencia ficción! Aquí, la creatividad se dispara más allá de los límites y cada historia te transporta a realidades sorprendentes. Desde los títulos clásicos que marcaron un antes y un después hasta las innovadoras producciones actuales que expanden nuestras fronteras del conocimiento, este catálogo está pensado para los apasionados de lo extraordinario. Prepárate para vivir tramas que te harán replantearte el futuro, explorar lo desconocido y aventurarte hacia los confines del cosmos. ¡Descubre, disfruta y déjate conquistar por la ciencia ficción!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center"
+            Margin="25,10,25,50"/>
+
+        <Label
+            Text="Recomendaciones:"
+            FontAttributes="Bold"
+            FontSize="Subtitle"
+            Margin="25,20"/>
+
+        <ScrollView Orientation="Horizontal" HorizontalScrollBarVisibility="Never" Padding="5" >
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <!-- peli 1 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="ficcion1.jpg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Pacific Rim" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 2 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="ficcion2.jpg" WidthRequest="90" HeightRequest="90" />
+                        <Label Text="Jurassic Park" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 3 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="ficcion3.jpeg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Back to the Future" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 4 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="ficcion4.jpg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="The Thing" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+
+                <!-- peli 5 -->
+                <ContentView WidthRequest="100" HeightRequest="180">
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Image Source="ficcion5.jpg" WidthRequest="90" HeightRequest="90"/>
+                        <Label Text="Avatar" HorizontalOptions="Center" VerticalOptions="Center" Padding="5" FontSize="Small"/>
+                    </StackLayout>
+                </ContentView>
+            </StackLayout>
+        </ScrollView >
+    </VerticalStackLayout>
+</ContentPage>

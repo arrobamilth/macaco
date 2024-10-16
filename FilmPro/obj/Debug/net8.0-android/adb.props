@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 AdbTarget=-s RGIFW8SGCARKY9DM
+=======
+AdbTarget=-s RWVK49WC69YT6PSK
+>>>>>>> funcionalidad/brayan_page
 AdbOptions=

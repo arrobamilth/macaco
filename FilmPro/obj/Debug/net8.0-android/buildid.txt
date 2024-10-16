@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 68124928-e9fc-4d1d-951e-a9df7233db02
+=======
+0707fbf1-da28-432d-a46c-33187e6c7233
+>>>>>>> funcionalidad/brayan_page

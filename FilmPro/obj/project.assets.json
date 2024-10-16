@@ -32919,24 +32919,40 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\AsusTUF\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\smellslike2003\\.nuget\\packages\\": {},
+>>>>>>> funcionalidad/brayan_page
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
       "projectName": "FilmPro",
       "projectPath": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
       "packagesPath": "C:\\Users\\AsusTUF\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\smellslike2003\\OneDrive\\Documentos\\macaco\\FilmPro\\FilmPro.csproj",
+      "projectName": "FilmPro",
+      "projectPath": "C:\\Users\\smellslike2003\\OneDrive\\Documentos\\macaco\\FilmPro\\FilmPro.csproj",
+      "packagesPath": "C:\\Users\\smellslike2003\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\smellslike2003\\OneDrive\\Documentos\\macaco\\FilmPro\\obj\\",
+>>>>>>> funcionalidad/brayan_page
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\AsusTUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\smellslike2003\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> funcionalidad/brayan_page
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
