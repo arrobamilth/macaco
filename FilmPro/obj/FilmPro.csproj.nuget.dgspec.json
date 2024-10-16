@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\FilmPro.csproj": {}
+    "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\FilmPro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\FilmPro.csproj": {
+    "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\FilmPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\FilmPro.csproj",
+        "projectUniqueName": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
         "projectName": "FilmPro",
-        "projectPath": "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\FilmPro.csproj",
-        "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\obj\\",
+        "projectPath": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
+        "packagesPath": "C:\\Users\\AsusTUF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AsusTUF\\Documents\\macaco\\FilmPro\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\AsusTUF\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -72,11 +72,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -115,11 +115,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -158,11 +158,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
@@ -202,11 +202,11 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
-              "version": "[8.0.82, )"
+              "version": "[8.0.72, )"
             }
           },
           "imports": [
