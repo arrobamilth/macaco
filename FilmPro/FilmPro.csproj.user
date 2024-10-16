@@ -3,9 +3,15 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
+<<<<<<< HEAD
     <ActiveDebugProfile>Pixel 5 - API 34 (Android 14.0 - API 34)</ActiveDebugProfile>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <DefaultDevice>pixel_5_-_api_34</DefaultDevice>
+=======
+    <ActiveDebugProfile>Pixel 5 - API 33 MAUI (Android 13.0 - API 33)</ActiveDebugProfile>
+    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
+    <DefaultDevice>pixel_5_-_api_33_maui</DefaultDevice>
+>>>>>>> funcionalidad/genero/cine-independiente
   </PropertyGroup>
   <ItemGroup>
     <MauiXaml Update="Maestro.xaml">
@@ -17,7 +23,11 @@
     <MauiXaml Update="Page1.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+<<<<<<< HEAD
     <MauiXaml Update="Page2.xaml">
+=======
+    <MauiXaml Update="Page4.xaml">
+>>>>>>> funcionalidad/genero/cine-independiente
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

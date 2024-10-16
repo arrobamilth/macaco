@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\FilmPro.csproj": {}
   },
   "projects": {
@@ -12,13 +13,30 @@
         "projectPath": "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\FilmPro.csproj",
         "packagesPath": "C:\\Users\\mateo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mateo\\OneDrive\\Documentos\\niaaa\\FilmPro\\obj\\",
+=======
+    "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\FilmPro.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\FilmPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
+        "projectName": "FilmPro",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\FilmPro.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\macaco\\FilmPro\\obj\\",
+>>>>>>> funcionalidad/genero/cine-independiente
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\mateo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> funcionalidad/genero/cine-independiente
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

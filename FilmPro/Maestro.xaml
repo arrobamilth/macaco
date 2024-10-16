@@ -10,11 +10,20 @@
            Clicked="Page1" 
             Margin="0,10"
             BackgroundColor="#e54f1a"/>
+<<<<<<< HEAD
         <Button Text="Romance"
                 FontAttributes="Bold"
            Clicked="Page2" 
             Margin="0,10"
             BackgroundColor="#e54f1a"/>
 
+=======
+
+        <Button Text="Cine independiente"
+            FontAttributes="Bold"
+       Clicked="Page4" 
+        Margin="0,10"
+        BackgroundColor="#e54f1a"/>
+>>>>>>> funcionalidad/genero/cine-independiente
     </VerticalStackLayout>
 </ContentPage>
