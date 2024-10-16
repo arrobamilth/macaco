@@ -12,75 +12,46 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FilmPro
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\mateo\OneDrive\Documentos\niaaa\FilmPro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/App.xaml]
-=======
-build_property.ProjectDir = C:\Users\Usuario\Documents\macaco\FilmPro\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-
-[C:/Users/Usuario/Documents/macaco/FilmPro/App.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/AppShell.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/AppShell.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/Maestro.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/Maestro.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Maestro.xaml
 build_metadata.AdditionalFiles.TargetPath = Maestro.xaml
 build_metadata.AdditionalFiles.RelativePath = Maestro.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/MainPage.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/MainPage.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/Menu.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/Menu.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Menu.xaml
 build_metadata.AdditionalFiles.TargetPath = Menu.xaml
 build_metadata.AdditionalFiles.RelativePath = Menu.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/Page1.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/Page1.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page1.xaml
 build_metadata.AdditionalFiles.TargetPath = Page1.xaml
 build_metadata.AdditionalFiles.RelativePath = Page1.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/Page2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page2.xaml
@@ -88,25 +59,12 @@ build_metadata.AdditionalFiles.TargetPath = Page2.xaml
 build_metadata.AdditionalFiles.RelativePath = Page2.xaml
 
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/Resources/Styles/Colors.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/Page4.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page4.xaml
-build_metadata.AdditionalFiles.TargetPath = Page4.xaml
-build_metadata.AdditionalFiles.RelativePath = Page4.xaml
-
-[C:/Users/Usuario/Documents/macaco/FilmPro/Resources/Styles/Colors.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-<<<<<<< HEAD
 [C:/Users/mateo/OneDrive/Documentos/niaaa/FilmPro/Resources/Styles/Styles.xaml]
-=======
-[C:/Users/Usuario/Documents/macaco/FilmPro/Resources/Styles/Styles.xaml]
->>>>>>> funcionalidad/genero/cine-independiente
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
