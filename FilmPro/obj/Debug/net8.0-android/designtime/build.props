@@ -24,11 +24,7 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-<<<<<<< HEAD
-_nugetassetstimestamp=638646213774109431
-=======
-_nugetassetstimestamp=638646227309901267
->>>>>>> funcionalidad/brayan_page
+_nugetassetstimestamp=638646233721025003
 typemapkind=strings-asm
 androidmanifestplaceholders=
 projectfullpath=c:\users\asustuf\documents\macaco\filmpro\filmpro.csproj
