@@ -12,71 +12,71 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FilmPro
-build_property.ProjectDir = C:\Users\smellslike2003\OneDrive\Documentos\macaco\FilmPro\
+build_property.ProjectDir = C:\Users\AsusTUF\Documents\macaco\FilmPro\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/App.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/AppShell.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Maestro.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Maestro.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Maestro.xaml
 build_metadata.AdditionalFiles.TargetPath = Maestro.xaml
 build_metadata.AdditionalFiles.RelativePath = Maestro.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/MainPage.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Menu.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Menu.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Menu.xaml
 build_metadata.AdditionalFiles.TargetPath = Menu.xaml
 build_metadata.AdditionalFiles.RelativePath = Menu.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Page1.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Page1.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page1.xaml
 build_metadata.AdditionalFiles.TargetPath = Page1.xaml
 build_metadata.AdditionalFiles.RelativePath = Page1.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Page2.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Page2.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page2.xaml
 build_metadata.AdditionalFiles.TargetPath = Page2.xaml
 build_metadata.AdditionalFiles.RelativePath = Page2.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Page3.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Page3.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page3.xaml
 build_metadata.AdditionalFiles.TargetPath = Page3.xaml
 build_metadata.AdditionalFiles.RelativePath = Page3.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Page4.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Page4.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Page4.xaml
 build_metadata.AdditionalFiles.TargetPath = Page4.xaml
 build_metadata.AdditionalFiles.RelativePath = Page4.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Resources/Styles/Colors.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/smellslike2003/OneDrive/Documentos/macaco/FilmPro/Resources/Styles/Styles.xaml]
+[C:/Users/AsusTUF/Documents/macaco/FilmPro/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FilmPro.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

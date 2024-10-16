@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilmPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+8fc94c65562ced1e480a7e20873b31d06bfe210b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+053069d0618e6bbae95a437f2fbe582f28114aca")]
 [assembly: System.Reflection.AssemblyProductAttribute("FilmPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FilmPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
